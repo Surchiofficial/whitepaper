@@ -35,7 +35,7 @@ Blockchain: Cronos (CRO)
 
 Decimals: 18
 
-Total Supply: 1,000,000,000 (fixed or adjustable depending on governance)
+Total Supply: 1,000,000,000 fixed 
 
 
 
